@@ -4,16 +4,12 @@ A Console-based Calendar Application or CLI (Command Line Interface) Calender Ap
 
 It is simple and interactive C program that generates and displays a full-year calendar in the console based on the year provided by the user. It utilizes ANSI Escape Codes to highlight weekends (Fridays and Saturdays) for better readability.
 
----
-
 ## 📌 Features
 
 * **Any Year Calendar:** Accurately calculates and displays the entire calendar for any year entered by the user.
 * **Leap Year Detection:** Automatically detects leap years and adjusts February to have 29 days instead of 28.
 * **Weekend Highlighting:** Visually highlights Fridays (`Fri`) and Saturdays (`Sat`) in red (`RED`) for quick identification.
 * **Efficient Algorithm:** Computes the exact starting day of the year using a clean mathematical formula without depending on heavy external date/time libraries.
-
----
 
 ## 🛠 Technologies Used
 
@@ -40,7 +36,12 @@ To make this Calendar Application more robust, versatile, and user-friendly, the
   
 * **Current Date Indicator:** Automatically fetch the current system date using `<time.h>` and highlight "Today's Date" dynamically when printing the calendar.
 
+## 🚀 How to Run<h3>
+<b>Compiler :</b> Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code).
 
-## 🚀 How to Run
+## 👤 About Me
+ **Rubaba Binte Mahbub**-[@RubabaBinteMahbub](https://github.com/RubabaBinteMahbub)
+* **Department:** Computer Science & Engineering (CSE)
+* **Institution:** Bangladesh University of Business and Technology (BUBT)
 
-To run this program, ensure you have a C compiler (like GCC) or an IDE (such as VS Code, Code::Blocks, or CLion) installed.
+ <i> <p align="center">If you liked this, drop a ⭐!</p> </i>
