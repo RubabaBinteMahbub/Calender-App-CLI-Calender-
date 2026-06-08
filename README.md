@@ -1,6 +1,8 @@
 # 📅 C Calendar Generator
 
-A simple and interactive C program that generates and displays a full-year calendar in the console based on the year provided by the user. It utilizes ANSI Escape Codes to highlight weekends (Fridays and Saturdays) for better readability.
+A Console-based Calendar Application or CLI (Command Line Interface) Calender App.
+
+It is simple and interactive C program that generates and displays a full-year calendar in the console based on the year provided by the user. It utilizes ANSI Escape Codes to highlight weekends (Fridays and Saturdays) for better readability.
 
 ---
 
