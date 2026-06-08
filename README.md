@@ -30,6 +30,16 @@ It is simple and interactive C program that generates and displays a full-year c
 3. **Color Output:** The macro `#define RED "\033[31m"` injects ANSI color codes directly into the `printf` buffer to paint the weekend dates red.
 
 ---
+# 🔮 Future Improvements & Roadmap
+
+To make this Calendar Application more robust, versatile, and user-friendly, the following features are planned for future releases. Contributions are welcome!
+
+* **Holiday Integration:** Add a feature to read a text/JSON file containing national or custom holidays and highlight them in a different color (e.g., Yellow or Blue).
+  
+* **Event Planner / Reminderss** Allow users to add short notes or events to specific dates, saving them locally in a file so they persist across multiple app runs.
+  
+* **Current Date Indicator:** Automatically fetch the current system date using `<time.h>` and highlight "Today's Date" dynamically when printing the calendar.
+
 
 ## 🚀 How to Run
 
